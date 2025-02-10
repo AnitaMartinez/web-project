@@ -1,0 +1,55 @@
+// reset
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+//   normales
+
+.header {
+    background-color: rgba(5, 242, 233, 0.2);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav ul li {
+    margin: 0 15px;
+  }
+  
+  .nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+  .footer {
+    background-color: rgba(5, 242, 233, 0.2);
+    padding: 10px;
+    text-align: center;
+  }
+  
